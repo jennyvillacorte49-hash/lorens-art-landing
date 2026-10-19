@@ -21,7 +21,7 @@ Nunca uses aquí la *secret key* ni la *service_role*.
 
 ## Prueba social
 
-Edita `src/config.js` y agrega reseñas reales de clientes de Loren's Art en `testimonios`.
+Edita `config.js` y agrega reseñas reales de clientes de Loren's Art en `testimonios`.
 
 ## Desarrollo local (opcional)
 
